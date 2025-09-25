@@ -1,4 +1,4 @@
 console.log("add script2 js in user")
 console.log("write in master dir")
 console.log("write a new line of code")
-
+console.log("satyajit")
